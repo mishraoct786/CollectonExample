@@ -8,7 +8,7 @@ public class TestTreeSet {
 	{
 		Set<String> treeSet=new TreeSet<String>();
 		treeSet.add("shubham");
-		treeSet.add("sarvwsh");
+		treeSet.add("sarvesh");
 		treeSet.add("Rohit");
 		treeSet.add("Pawan");
 		
